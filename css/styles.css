@@ -570,7 +570,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .footer-input:focus {
-    border-color: #4d5ae5;
+    border-color: #31d0aa;
 }
 
 .footer-input::placeholder {
@@ -603,7 +603,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 .footer-btn:hover,
 .footer-btn:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 
 .footer-btn-icon {
@@ -806,11 +806,6 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     margin: 16px 0 24px;
 }
 
-
-.modal-check-input {
-    position: absolute;
-    appearance: none;
-}
 
 
 .modal-check-label {
